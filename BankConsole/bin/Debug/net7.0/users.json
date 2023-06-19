@@ -1,0 +1,18 @@
+[
+  {
+    "TaxRegime": "M",
+    "ID": 3,
+    "Name": "Angel Mateo",
+    "Email": "gus_norek@hotmail.com",
+    "Balance": 35122.68,
+    "RegisterDate": "2023-06-18T22:06:41.1204167-06:00"
+  },
+  {
+    "Department": "IT",
+    "ID": 1,
+    "Name": "Salma Ledezma",
+    "Email": "gus_norek@hotmail.com",
+    "Balance": 3569.0,
+    "RegisterDate": "2023-06-18T22:43:50.0525838-06:00"
+  }
+]
